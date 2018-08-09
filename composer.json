@@ -1,0 +1,17 @@
+{
+    "name": "cloud/string-helper",
+    "type": "library",
+    "description": "useful string processor",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Cloud",
+            "email": "mark801117@gmail.com"
+        }    
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cloud\\StringHelper\\": "src"
+        }
+    }
+}
