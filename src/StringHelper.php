@@ -1,5 +1,5 @@
 <?php
-namespace StringHelper;
+namespace Cloud\StringHelper;
 /**
  * Description of FileHandler
  *
